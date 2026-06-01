@@ -486,9 +486,9 @@ This file can be directly uploaded for competition evaluation.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/advanced-fraud-detection.git
+git clone Advanced-Fraud-Detection-using-Ensemble-Learning--Feature-Engineering-and-Explainable-AI.git
 
-cd advanced-fraud-detection
+cd Advanced-Fraud-Detection-using-Ensemble-Learning--Feature-Engineering-and-Explainable-AI
 ```
 
 Install required packages:
