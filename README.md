@@ -500,33 +500,6 @@ pip install lightgbm
 pip install catboost
 pip install shap
 ```
-
----
-
-# Project Structure
-
-```text
-Advanced-Fraud-Detection/
-│
-├── README.md
-├── fraud_detection_pipeline.py
-├── requirements.txt
-│
-├── data/
-│   ├── train.csv
-│   └── test.csv
-│
-├── outputs/
-│   ├── submission.csv
-│   ├── feature_importance.png
-│   ├── permutation_importance.png
-│   ├── shap_summary.png
-│   └── model_comparison.png
-│
-└── notebooks/
-    └── analysis.ipynb
-```
-
 ---
 
 # Technologies Used
@@ -578,14 +551,8 @@ Interests:
 
 * Machine Learning
 * Artificial Intelligence
-* Cybersecurity
 * Embedded Systems
 * FPGA Design
 
 ---
 
-## License
-
-This project is released under the MIT License.
-
-Feel free to use, modify, and distribute this work with proper attribution.
